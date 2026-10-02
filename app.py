@@ -13,7 +13,7 @@ app = Flask(__name__)
 CORS(app) # Autorise Flutter à se connecter
 
 # CONFIGURATION MÉTÉO (COMPTE DEVELOPER)
-OPENWEATHER_API_KEY = "7e29c591e985d0bbe66a5fcc395aed2f"
+OPENWEATHER_API_KEY = "MON_API_KEY_ICI"
 CITY_LAT = "-23.35"  # Toliara
 CITY_LON = "43.66"
 
